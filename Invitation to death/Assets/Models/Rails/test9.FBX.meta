@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 449b6ff97961b2d4fad37f4af086f49f
+timeCreated: 1436429494
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cylinder918
+    100002: Cylinder919
+    100004: Cylinder922
+    100006: Cylinder923
+    100008: Cylinder927
+    100010: Cylinder928
+    100012: Cylinder929
+    100014: Cylinder930
+    100016: Cylinder931
+    100018: Cylinder932
+    100020: Cylinder933
+    100022: Cylinder934
+    100024: Cylinder935
+    100026: Cylinder936
+    100028: rail strigh-perfect048
+    100030: rail strigh-perfect049
+    100032: rail strigh-perfect051
+    100034: rail strigh-perfect052
+    100036: rail strigh-perfect053
+    100038: rail strigh-perfect054
+    100040: rail stright813
+    100042: rail stright822
+    100044: rail stright824
+    100046: rail stright825
+    100048: rail stright826
+    100050: rail stright827
+    100052: rail stright828
+    100054: //RootNode
+    400000: Cylinder918
+    400002: Cylinder919
+    400004: Cylinder922
+    400006: Cylinder923
+    400008: Cylinder927
+    400010: Cylinder928
+    400012: Cylinder929
+    400014: Cylinder930
+    400016: Cylinder931
+    400018: Cylinder932
+    400020: Cylinder933
+    400022: Cylinder934
+    400024: Cylinder935
+    400026: Cylinder936
+    400028: rail strigh-perfect048
+    400030: rail strigh-perfect049
+    400032: rail strigh-perfect051
+    400034: rail strigh-perfect052
+    400036: rail strigh-perfect053
+    400038: rail strigh-perfect054
+    400040: rail stright813
+    400042: rail stright822
+    400044: rail stright824
+    400046: rail stright825
+    400048: rail stright826
+    400050: rail stright827
+    400052: rail stright828
+    400054: //RootNode
+    2300000: Cylinder918
+    2300002: Cylinder919
+    2300004: Cylinder922
+    2300006: Cylinder923
+    2300008: Cylinder927
+    2300010: Cylinder928
+    2300012: Cylinder929
+    2300014: Cylinder930
+    2300016: Cylinder931
+    2300018: Cylinder932
+    2300020: Cylinder933
+    2300022: Cylinder934
+    2300024: Cylinder935
+    2300026: Cylinder936
+    2300028: rail strigh-perfect048
+    2300030: rail strigh-perfect049
+    2300032: rail strigh-perfect051
+    2300034: rail strigh-perfect052
+    2300036: rail strigh-perfect053
+    2300038: rail strigh-perfect054
+    2300040: rail stright822
+    2300042: rail stright824
+    2300044: rail stright825
+    2300046: rail stright826
+    2300048: rail stright827
+    2300050: rail stright828
+    3300000: Cylinder918
+    3300002: Cylinder919
+    3300004: Cylinder922
+    3300006: Cylinder923
+    3300008: Cylinder927
+    3300010: Cylinder928
+    3300012: Cylinder929
+    3300014: Cylinder930
+    3300016: Cylinder931
+    3300018: Cylinder932
+    3300020: Cylinder933
+    3300022: Cylinder934
+    3300024: Cylinder935
+    3300026: Cylinder936
+    3300028: rail strigh-perfect048
+    3300030: rail strigh-perfect049
+    3300032: rail strigh-perfect051
+    3300034: rail strigh-perfect052
+    3300036: rail strigh-perfect053
+    3300038: rail strigh-perfect054
+    3300040: rail stright822
+    3300042: rail stright824
+    3300044: rail stright825
+    3300046: rail stright826
+    3300048: rail stright827
+    3300050: rail stright828
+    4300000: Cylinder923
+    4300002: Cylinder930
+    4300004: rail stright822
+    4300006: Cylinder919
+    4300008: Cylinder935
+    4300010: rail strigh-perfect048
+    4300012: Cylinder918
+    4300014: rail strigh-perfect049
+    4300016: Cylinder922
+    4300018: rail stright824
+    4300020: Cylinder927
+    4300022: rail stright825
+    4300024: Cylinder928
+    4300026: rail strigh-perfect051
+    4300028: Cylinder929
+    4300030: rail strigh-perfect052
+    4300032: Cylinder931
+    4300034: rail strigh-perfect053
+    4300036: Cylinder932
+    4300038: rail strigh-perfect054
+    4300040: Cylinder936
+    4300042: rail stright826
+    4300044: Cylinder934
+    4300046: rail stright827
+    4300048: Cylinder933
+    4300050: rail stright828
+    6400000: Cylinder918
+    6400002: Cylinder919
+    6400004: Cylinder922
+    6400006: Cylinder923
+    6400008: Cylinder927
+    6400010: Cylinder928
+    6400012: Cylinder929
+    6400014: Cylinder930
+    6400016: Cylinder931
+    6400018: Cylinder932
+    6400020: Cylinder933
+    6400022: Cylinder934
+    6400024: Cylinder935
+    6400026: Cylinder936
+    6400028: rail strigh-perfect048
+    6400030: rail strigh-perfect049
+    6400032: rail strigh-perfect051
+    6400034: rail strigh-perfect052
+    6400036: rail strigh-perfect053
+    6400038: rail strigh-perfect054
+    6400040: rail stright822
+    6400042: rail stright824
+    6400044: rail stright825
+    6400046: rail stright826
+    6400048: rail stright827
+    6400050: rail stright828
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

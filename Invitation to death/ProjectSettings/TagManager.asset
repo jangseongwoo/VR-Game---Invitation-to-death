@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ADDFORCE
+  - OVRCAMERA
+  - RIGHTWING
+  - LEFTWING
+  - BULLET
+  - LEFTCROSS
+  - RIGHTCROSS
+  - ADDFORCE_START
+  - ADDFORCE_END
+  - REVERSE
+  - LEFTROTATE
+  - RIGHTROTATE
+  - End
+  - WALL
+  - Fire
+  - BOSS
+  - FALLING
+  - DEVILPUNCH
+  - RESPAWN1
+  - RESPAWN2
+  - RESPAWN3
+  - RESPAWN4
+  - RESPAWN5
+  - SLOW
+  - BACK1000
+  - BACK800
+  - BACK600
+  - BACK400
+  - BACK200
+  - BACK0
+  - BACK-200
+  - BACK-400
+  - SCORE50
+  - GUN
+  - TORCH
+  - BACK2000
+  - BOSSSPAWN
+  - OVR
+  - FAST
+  - FIXEDSPEED10
+  - FIXEDSPEED20
+  - FIXEDSPEED30
+  - FIXEDSPEED40
+  - FIXEDSPEED50
+  - FIXEDSPEED60
+  - FIXEDSPEED70
+  - FIXEDSPEED80
+  - FIXEDSPEED90
+  - FIXEDSPEED100
+  - GAMEOVER
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
