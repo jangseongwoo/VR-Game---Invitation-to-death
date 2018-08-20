@@ -1,7 +1,7 @@
 <img align="center" src="/images/Intro.png?raw=true" width="900" height="450">
 
 # Invitation to death - 4D VR Game
-> 게임 'ITD'입니다. (주)모션디바이스와 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
+> 프로젝트 'ITD'입니다. (주)모션디바이스와 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
 (전체 프로젝트 파일은 용량이 너무 커 올리지 않았습니다. 전체 프로젝트 파일을 원하시는 분은 하단 정보 카테고리에 있는 메일 주소로 메일을 보내주시기 바랍니다.)
 
 [![GitHub license](https://img.shields.io/github/license/Day8/re-frame.svg)](license.txt)
@@ -22,8 +22,8 @@
 ### 게임 플레이 화면
 
 - 시작 후 1인칭, 3인칭 화면
-<img align="center" src="/images/play1.png" width="400" height="250">
-<img align="right" src="/images/play2.png" width="410" height="250">
+<img align="left" src="/images/play1.png" width="400" height="250">
+<img src="/images/play2.png" width="410" height="250">
 
 - 전체 맵 
 <p align="center">
