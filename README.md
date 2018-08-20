@@ -9,7 +9,7 @@
 
 
 
-<img align="right" src="./images/gameInfo_1.png?raw=true" width="300" height="250">
+<img align="right" src="./images/gameInfo_1.png?raw=true" width="250" height="150">
 "죽은 여자친구를 되찾기 위해 지옥으로!"
 
 탄광 열차를 타고 레일을 따라 움직이며 미션을 수행
@@ -22,8 +22,8 @@
 ### 게임 플레이 화면
 
 - 시작 후 1인칭, 3인칭 화면
-<img align="left" src="/images/play1.png" width="400" height="250">
-<img src="/images/play2.png" width="410" height="250">
+<img align="left" src="/images/play1.png" width="440" height="250">
+<img src="/images/play2.png" width="450" height="250">
 
 - 전체 맵 
 <p align="center">
@@ -33,16 +33,16 @@ width="600" height="350">
 
 - devil - monster modeling image
 
-<img align="right" src="./images/devil.png" width="400" height="250">
-<img align="center" src="./images/devil2.png" width="410" height="250">
+<img align="left" src="./images/devil.png" width="440" height="250">
+<img src="./images/devil2.png" width="450" height="250">
 
 -mission 길막몹/갈림길 선택/ 최종보스
-<img align="left" src="./images/mission1.png" width="250" height="250">
-<img align="center" src="./images/mission2.png" width="250" height="250">
-<img align="right" src="./images/mission3.png" width="250" height="250">
+<img align="center" src="./images/mission1.png" width="250" height="250">
+<img src="./images/mission2.png" width="250" height="250">
+<img src="./images/mission3.png" width="250" height="250">
 
 - 실제 플레이 모습
-<img align="center" src="/images/play_1.png" width="450" height="250">
+<img align="right" src="/images/play_1.png" width="450" height="250">
 
 
 
