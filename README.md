@@ -1,26 +1,60 @@
-# Invitation to death 4D VR Game
-> 게임 'ITD'입니다. 스타트업과 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. (전체 프로젝트 파일은 용량이 너무 커 올리지 않았습니다. 전체 프로젝트 파일을 원하시는 분은 하단 정보 카테고리에 있는 메일 주소로 메일을 보내주시기 바랍니다.)
+# Invitation to death - 4D VR Game
+> 게임 'ITD'입니다. 스타트업과 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
+(전체 프로젝트 파일은 용량이 너무 커 올리지 않았습니다. 전체 프로젝트 파일을 원하시는 분은 하단 정보 카테고리에 있는 메일 주소로 메일을 보내주시기 바랍니다.)
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+<p align="center">
+<img src="./images/intro.png" alt="gameinfo_1"
+width="1000" height="450">
+</p>
+
+![](./images/intro.png)
+
 "죽은 여자친구를 되찾기 위해 지옥으로!"
-![](./images/gameInfo_1.png)
 
 탄광 열차를 타고 레일을 따라 움직이며 미션을 수행
 
-약 1.5km의 레일 코스를 약 3분의 플레이 타임을 가지고 진행합니다.
+약 1.5km의 레일 코스를 약 3분의 플레이 타임을 가지고 진행합니다. :)
 
+<p align="center">
+<img src="./images/gameInfo_1.png" alt="gameinfo_1"
+width="654" height="450">
+</p>
 
-![](./images/intro.png)
 
 
 ## 게임 소개
 
-오큘러스 리프트를 이용한 다양한 가상현실 체험게임들이 나오고 있고, 여러 4D 체험 게임들 또한 나오고 있지만 이 둘을 합친 게임은 적었습니다. 저희는 지난 1년 조원들과 모션디바이스사와의 협업을 통하여 모션디바이스의 익사이팅한 체감효과 와 오큘러스 리프트의 가상현실 구현을 접목한  3D 체험형 가상현실 게임을 개발 하였다.
-
 # 게임 플레이 화면
+
+시작 후 1인칭 화면
+<p align="center">
+<img src="./images/play1.png" alt="play1"
+width="654" height="450">
+</p>
+
+시작 후 3인칭 화면
+<p align="center">
+<img src="./images/play2.png" alt="play2"
+width="654" height="450">
+</p>
+
+전체 맵 
+<p align="center">
+<img src="./images/play2.png" alt="play2"
+width="1000" height="450">
+</p>
+
+devil - monster modeling image
+
+<p align="center">
+<img src="./images/play2.png" alt="play2"
+width="576" height="364">
+</p>
+
 
 
 
