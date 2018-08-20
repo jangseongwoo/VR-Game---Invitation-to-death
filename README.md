@@ -15,15 +15,20 @@
 
 약 1.5km의 레일 코스를 약 3분의 플레이 타임을 가지고 진행합니다. 
 
+
+
+
+
+
 ## 게임 소개
 
 ### 게임 플레이 화면
 
 - 시작 후 1인칭 화면
-<img align="right" src="/images/play1.png?raw=true" width="400" height="250">
+<img align="center" src="/images/play1.png?raw=true" width="400" height="250">
 
 - 시작 후 3인칭 화면
-<img align="right" src="/images/play2.png?raw=true" width="400" height="250">
+<img align="center" src="/images/play2.png?raw=true" width="400" height="250">
 
 - 전체 맵 
 <p align="center">
