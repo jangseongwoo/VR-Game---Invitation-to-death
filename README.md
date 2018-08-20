@@ -33,11 +33,11 @@ width="600" height="350">
 
 - devil - monster modeling image
 
-<img align="center" src="./images/devil.png" width="440" height="250">
-<img src="./images/devil2.png" width="450" height="250">
+<img align="center" src="./images/devil.png" width="410" height="250">
+<img src="./images/devil2.png" width="410" height="250">
 
 -mission 길막몹/갈림길 선택/ 최종보스
-<img align="center" src="./images/mission1.png" width="250" height="250">
+<img src="./images/mission1.png" width="250" height="250">
 <img src="./images/mission2.png" width="250" height="250">
 <img src="./images/mission3.png" width="250" height="250">
 
