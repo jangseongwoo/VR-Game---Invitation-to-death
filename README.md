@@ -8,8 +8,6 @@
 <img align="center" src="/images/Intro.png" width="900" height="300">
 
 
-
-<img align="right" src="./images/gameInfo_1.png?raw=true" width="250" height="150">
 "죽은 여자친구를 되찾기 위해 지옥으로!"
 
 탄광 열차를 타고 레일을 따라 움직이며 미션을 수행
@@ -37,7 +35,7 @@ width="600" height="350">
 <img src="./images/devil2.png" width="410" height="250">
 
 - 게임 내 mission 최종보스 / 길막몹 / 갈림길 선택
-<img src="./images/mission1.png" width="250" height="250">
+<img align="left" src="./images/mission1.png" width="250" height="250">
 <img src="./images/mission2.png" width="250" height="250">
 <img src="./images/mission3.png" width="250" height="250">
 
