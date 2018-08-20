@@ -22,8 +22,8 @@
 ### 게임 플레이 화면
 
 - 시작 후 1인칭, 3인칭 화면
-<img align="center" src="/images/play1.png?raw=true" width="450" height="250">
-<img align="right" src="/images/play2.png?raw=true" width="440" height="250">
+<img align="center" src="/images/play1.png?raw=true" width="400" height="250">
+<img align="right" src="/images/play2.png?raw=true" width="410" height="250">
 
 - 전체 맵 
 <p align="center">
@@ -33,13 +33,13 @@ width="600" height="350">
 
 - devil - monster modeling image
 
-<img align="right" src="./images/devil.png?raw=true" width="440" height="250">
-<img align="center" src="./images/devil2.png?raw=true" width="450" height="250">
+<img align="right" src="./images/devil.png" width="400" height="250">
+<img align="center" src="./images/devil2.png" width="410" height="250">
 
 -mission 길막몹/갈림길 선택/ 최종보스
-<img align="left" src="./images/mission1.png?raw=true" width="280" height="250">
-<img align="center" src="./images/mission2.png?raw=true" width="280" height="250">
-<img align="right" src="./images/mission3.png?raw=true" width="280" height="250">
+<img align="left" src="./images/mission1.png" width="250" height="250">
+<img align="center" src="./images/mission2.png?raw=true" width="250" height="250">
+<img align="right" src="./images/mission3.png?raw=true" width="250" height="250">
 
 - 실제 플레이 모습
 <img align="center" src="/images/play_1.png?raw=true" width="450" height="250">
