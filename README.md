@@ -1,21 +1,15 @@
+![](./images/intro.png)
 # Invitation to death - 4D VR Game
-> 게임 'ITD'입니다. 스타트업과 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
+> 게임 'ITD'입니다. (주)모션디바이스와 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
 (전체 프로젝트 파일은 용량이 너무 커 올리지 않았습니다. 전체 프로젝트 파일을 원하시는 분은 하단 정보 카테고리에 있는 메일 주소로 메일을 보내주시기 바랍니다.)
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-[![][codecov img]][codecov]
-[![][license img]][license]
+[![GitHub license](https://img.shields.io/github/license/Day8/re-frame.svg)](license.txt)
 
 
 
-<p align="center">
-<img src="./images/Intro.png" alt="intro_1"
-width="750" height="350">
-</p>
 
-![](./images/intro.png)
+<img align="right" src="./images/Intro.png?raw=true" width="300" height="250">
+
 
 "죽은 여자친구를 되찾기 위해 지옥으로!"
 
