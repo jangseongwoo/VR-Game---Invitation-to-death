@@ -1,4 +1,5 @@
-![](./images/Intro.png)
+<img align="center" src="/images/Intro.png?raw=true" width="800" height="650">
+
 # Invitation to death - 4D VR Game
 > 게임 'ITD'입니다. (주)모션디바이스와 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
 (전체 프로젝트 파일은 용량이 너무 커 올리지 않았습니다. 전체 프로젝트 파일을 원하시는 분은 하단 정보 카테고리에 있는 메일 주소로 메일을 보내주시기 바랍니다.)
@@ -14,10 +15,6 @@
 탄광 열차를 타고 레일을 따라 움직이며 미션을 수행
 
 약 1.5km의 레일 코스를 약 3분의 플레이 타임을 가지고 진행합니다. 
-
-
-
-
 
 
 ## 게임 소개
@@ -38,8 +35,8 @@ width="600" height="350">
 
 - devil - monster modeling image
 
-<img align="right" src="./images/devil.png?raw=true" width="300" height="250">
-<img align="center" src="./images/devil2.png?raw=true" width="300" height="250">
+<img align="right" src="./images/devil.png?raw=true" width="450" height="250">
+<img align="center" src="./images/devil2.png?raw=true" width="450" height="250">
 
 
 
