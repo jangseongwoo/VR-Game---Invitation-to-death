@@ -5,10 +5,14 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+[![][codecov img]][codecov]
+[![][license img]][license]
+
+
 
 <p align="center">
-<img src="./images/intro.png" alt="gameinfo_1"
-width="1000" height="450">
+<img src="./images/Intro.png" alt="intro_1"
+width="750" height="350">
 </p>
 
 ![](./images/intro.png)
@@ -28,30 +32,32 @@ width="654" height="450">
 
 ## 게임 소개
 
-# 게임 플레이 화면
+### 게임 플레이 화면
 
-시작 후 1인칭 화면
+- 시작 후 1인칭 화면
 <p align="center">
 <img src="./images/play1.png" alt="play1"
-width="654" height="450">
+width="400" height="250">
 </p>
 
-시작 후 3인칭 화면
+<img align="right" src="/images/play1.png?raw=true">
+
+- 시작 후 3인칭 화면
 <p align="center">
 <img src="./images/play2.png" alt="play2"
-width="654" height="450">
+width="400" height="250">
 </p>
 
-전체 맵 
+- 전체 맵 
 <p align="center">
-<img src="./images/play2.png" alt="play2"
-width="1000" height="450">
+<img src="./images/map1.png" alt="play2"
+width="800" height="450">
 </p>
 
-devil - monster modeling image
+- devil - monster modeling image
 
 <p align="center">
-<img src="./images/play2.png" alt="play2"
+<img src="./images/devil.png" alt="play2"
 width="576" height="364">
 </p>
 
