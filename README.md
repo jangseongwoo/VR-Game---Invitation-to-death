@@ -52,8 +52,11 @@ width="600" height="350">
 - Oculus lift를 이용해 시야 조정을 합니다.
 <br>
 
-- 미사일 발사는 조이스틱의 A 버튼을 이용해 발사합니다.<br>
-- 핸들을 이용해 갈림길 미션에서 길을 선택할 수 있습니다.<br>
+- 미사일 발사는 조이스틱의 A 버튼을 이용해 발사합니다.
+<br>
+
+- 핸들을 이용해 갈림길 미션에서 길을 선택할 수 있습니다.
+
 <br>
 <br>
 
@@ -67,6 +70,8 @@ OS X & 윈도우:
 1. Git clone  - https://github.com/jangseongwoo/VR-Game---Invitation-to-death.git
 
 2. Unity3d Project로 Invitation to death 폴더 열기
+<br>
+
 
 ## 개발 목표 및 내용
 
@@ -77,6 +82,7 @@ OS X & 윈도우:
 - 3D-MAX, Z-brush를 이용한 3D모델링 제작
 
 - ‘Motion Device’ 기업과의 연계를 통한 게임 개발 경험
+<br>
 
 ## 기술 요소와 중점 연구 분야
 
@@ -106,8 +112,8 @@ Oculus DK2는 아직 미완성 제품으로 인지와 게임 화면 전환의 �
 
 ## 업데이트 내역
 
-* 1.0.0
-* version 1.0.0 작업 완료 (2015.10)
+
+* 1.0.0  (2015.10)
 * 0.0.1
 * 작업 진행 중
 
