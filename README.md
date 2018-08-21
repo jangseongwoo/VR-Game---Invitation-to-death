@@ -1,7 +1,7 @@
 
 
 # Invitation to death - 4D VR Game
-> 프로젝트 'ITD'입니다. (주)모션디바이스와 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
+> 프로젝트 'ITD'입니다. [(주)모션디바이스](http://www.motion-device.com)와 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
 (전체 프로젝트 파일은 용량이 너무 커 올리지 않았습니다. 전체 프로젝트 파일을 원하시는 분은 하단 정보 카테고리에 있는 메일 주소로 메일을 보내주시기 바랍니다.) [![GitHub license](https://img.shields.io/github/license/Day8/re-frame.svg)](license.txt)
 
 
@@ -42,7 +42,13 @@ width="600" height="350">
 - 실제 플레이 모습(VR과 Motion device 탑승 상태)
 <img align="center" src="/images/play_1.png" width="450" height="250">
 - 실제 플레이 영상(개발 50% 완료 플레이 영상, VR 미착용)
-<iframe width="300" height="260" src="https://www.youtube.com/embed/gUbah-mU-zY?list=PL5hRdzUugwbRL76tTvyy7_AiprT0y24VE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[Link](https://youtu.be/gUbah-mU-zY?list=PL5hRdzUugwbRL76tTvyy7_AiprT0y24VE)
+
+## 게임 방법
+- Oculus lift를 이용해 시야 조정을 합니다.
+- 미사일 발사는 조이스틱의 A 버튼을 이용해 발사합니다.
+- 핸들을 이용해 갈림길 미션에서 길을 선택할 수 있습니다.
+<img align="right" src="/images/Play_2.png" width="410" height="250">
 
 
 
@@ -64,6 +70,18 @@ OS X & 윈도우:
 - 3D-MAX, Z-brush를 이용한 3D모델링 제작
 
 - ‘Motion Device’ 기업과의 연계를 통한 게임 개발 경험
+
+## 기술 요소와 중점 연구 분야
+
+- ‘오큘러스 리프트’의 헤드 트래킹 기술을 게임에 적용
+
+- 레일 위를 움직이는 객차의 pitch, roll, yaw, heave, 속도 등의 값을 유니티 물리엔진과 스크립트를 통한 수학적 연산을 이용하여 얻어낸 후 UDP 통신을 통해 ‘모션 디바이스’에 전송하고 그에 따른 모션디바이스의 사실감 있는 움직임을 연구
+
+- 3D Max, Zbrush를 이용한 모델링
+
+- 상황에 적합한 사운드를 통한 사실감 증폭
+
+
 
 ## 사용 기술
 
@@ -87,10 +105,10 @@ Oculus DK2는 아직 미완성 제품으로 인지와 게임 화면 전환의 �
 * 작업 진행 중
 
 ## 최소 시스템 요구 사항
-- 시스템 운영체제:Windows XP
-- CPU 프로세서:Intel Core i3-4005U
-- 램:4GB 
-- 그래픽카드: AMD Radeon 6630M 
+- 시스템 운영체제: Windows XP 
+- CPU 프로세서: Intel Core i3-4005U
+- 램: 4GB  
+- 그래픽카드: AMD Radeon 6630M
 - 하드 드라이브 필요 용량: 1GB이상의 여유공간
 
 ## 정보
