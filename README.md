@@ -42,7 +42,7 @@ width="600" height="350">
 - 실제 플레이 모습(VR과 Motion device 탑승 상태)
 <img align="center" src="/images/play_1.png" width="450" height="250">
 
-- 실제 플레이 영상(개발 50% 완료 플레이 영상, VR 미착용)
+- 실제 플레이 영상(개발 50% 완료 플레이 영상, VR 미착용) <br>
 [Link](https://youtu.be/gUbah-mU-zY?list=PL5hRdzUugwbRL76tTvyy7_AiprT0y24VE)
 
 
