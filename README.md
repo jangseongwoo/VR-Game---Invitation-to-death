@@ -1,7 +1,7 @@
 
 
 # Invitation to death - 4D VR Game
-> 프로젝트 'ITD'입니다. [(주)모션디바이스](http://www.motion-device.com)와 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. 
+> 프로젝트 'ITD'입니다. [(주)모션디바이스](http://www.motion-device.com)와 산학협력으로 개발했으며 VR+Motion device가 있어야 정상적인 구동이 가능합니다. <br>
 (전체 프로젝트 파일은 용량이 너무 커 올리지 않았습니다. 전체 프로젝트 파일을 원하시는 분은 하단 정보 카테고리에 있는 메일 주소로 메일을 보내주시기 바랍니다.) [![GitHub license](https://img.shields.io/github/license/Day8/re-frame.svg)](license.txt)
 
 
@@ -45,10 +45,11 @@ width="600" height="350">
 [Link](https://youtu.be/gUbah-mU-zY?list=PL5hRdzUugwbRL76tTvyy7_AiprT0y24VE)
 
 ## 게임 방법
+<img align="right" src="/images/Play_2.png" width="410" height="250">
 - Oculus lift를 이용해 시야 조정을 합니다.
 - 미사일 발사는 조이스틱의 A 버튼을 이용해 발사합니다.
 - 핸들을 이용해 갈림길 미션에서 길을 선택할 수 있습니다.
-<img align="right" src="/images/Play_2.png" width="410" height="250">
+
 
 
 
